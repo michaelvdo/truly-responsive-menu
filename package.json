@@ -1,6 +1,6 @@
 {
   "name": "truly-responsive-menu",
-  "version": "v1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to make menus truly responsive",
   "main": "dist/truly-responsive-menu.js",
   "scripts": {
