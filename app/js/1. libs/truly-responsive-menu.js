@@ -1,4 +1,4 @@
-var responsiveMenu = function responsiveMenu(options) {
+var trulyResponsiveMenu = function trulyResponsiveMenu(options) {
 
   'use strict';
 

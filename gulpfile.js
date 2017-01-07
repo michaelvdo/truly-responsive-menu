@@ -80,7 +80,7 @@
   // gulp js task (move js files to dist and refresh browser)
   gulp.task('js', function() {
     return gulp.src(jsFiles)
-    .pipe(concat('responsive-menu.min.js'))
+    .pipe(concat('truly-responsive-menu.min.js'))
     .pipe(uglify())
     .pipe(gulp.dest(jsDistFiles))
     .pipe(browserSync.stream());

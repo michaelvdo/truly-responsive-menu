@@ -5,7 +5,7 @@ var run = function run() {
     toggleClasses: ['mobile', 'foo']
   };
 
-  responsiveMenu(options);
+  trulyResponsiveMenu(options);
 };
 
 // in case the document is already rendered

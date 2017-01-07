@@ -1,12 +1,22 @@
 {
-  "name": "responsive-menu",
+  "name": "truly-responsive-menu",
   "version": "1.0.0",
-  "description": "responsive-menu",
-  "main": "index.js",
+  "description": "A plugin to make menus truly responsive",
+  "main": "dist/truly-responsive-menu.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "michaelvdo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelvdo/truly-responsive-menu"
+  },
+  "keywords": [
+    "truly-responsive-menu",
+    "truly",
+    "responsive",
+    "menu"
+  ],
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.10.0",
