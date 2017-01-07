@@ -1,0 +1,24 @@
+{
+    "name": "truly-responsive-menu",
+    "version": "1.0.0",
+    "homepage": "https://github.com/michaelvdo/truly-responsive-menu",
+    "authors": [
+        "michaelvdo <michaelvdo@gmail.com>"
+    ],
+    "description": "A plugin to make menus truly responsive",
+    "main": "dist/truly-responsive-menu.js",
+    "keywords": [
+      "truly-responsive-menu",
+      "truly",
+      "responsive",
+      "menu"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
