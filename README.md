@@ -3,7 +3,7 @@
 This plugin is meant to help make menus on webpages truly responsive. Rather than break a menu to a mobile view on a CSS breakpoint, why not break it to a mobile view when the menu items start wrapping? That is exactly what this plugin will do for you.
 
 ## Install
-Install using `npm i --save-dev truly-responsive-menu`.
+Install using `npm i --save-dev truly-responsive-menu` or `bower i --save truly-responsive-menu`.
 
 ## Basic usage
 Initiate the plugin using:
