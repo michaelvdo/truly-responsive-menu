@@ -2,6 +2,10 @@
     "name": "truly-responsive-menu",
     "version": "1.0.0",
     "homepage": "https://github.com/michaelvdo/truly-responsive-menu",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/michaelvdo/truly-responsive-menu.git"
+    },
     "authors": [
         "michaelvdo <michaelvdo@gmail.com>"
     ],
