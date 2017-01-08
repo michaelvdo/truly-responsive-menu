@@ -50,4 +50,4 @@ The plugin relies on `offsetTop` to check whether all menu items have the same t
 `toggleClasses` (default: `['is-mobile']`): An `array` of strings of all the classes that should be toggled on/off on the `container` element to trigger the mobile styles.
 
 ## Version
-Version: 1.0.0 by Michael van den Oudenalder
+Version: 1.0.2 by Michael van den Oudenalder

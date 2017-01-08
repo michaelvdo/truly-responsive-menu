@@ -63,11 +63,12 @@ var trulyResponsiveMenu = function trulyResponsiveMenu(options) {
     toggleWrappingClass(false);
     if (!equalOffsetTop(selectors.children)) {
       toggleWrappingClass(true);
-    } else {
-      toggleWrappingClass(false);
     }
   }, 20);
 
   window.addEventListener('resize', toggleCheck);
+
+  // Initiate the toggle check on initialization of the plugin
+  toggleCheck();
 
 };
