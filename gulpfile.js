@@ -19,7 +19,7 @@
   //
 
   // project name
-  var projectName = 'responsive-menu';
+  var projectName = 'truly-responsive-menu';
 
   var baseDir = 'dist';
 
@@ -80,7 +80,7 @@
   // gulp js task (move js files to dist and refresh browser)
   gulp.task('js', function() {
     return gulp.src(jsFiles)
-    .pipe(concat('truly-responsive-menu.min.js'))
+    .pipe(concat(projectName + '.min.js'))
     .pipe(uglify())
     .pipe(gulp.dest(jsDistFiles))
     .pipe(browserSync.stream());
